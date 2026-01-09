@@ -1,0 +1,88 @@
+{
+  "trend_analysis": {
+    "trend_per_decade_percent": 0.20116665087972357,
+    "variability_percent": 19.620395931545037,
+    "baseline_extent": 0.8696339925130209
+  },
+  "predictions": {
+    "decline_rate_per_year": 0.5,
+    "acceleration": 0.01
+  },
+  "climate_impact": {
+    "sea_level_rise_cm": -5.810310452862432,
+    "population_at_risk_millions": 12.08,
+    "economic_exposure_billions": 2900.0,
+    "city_impacts": [
+      {
+        "name": "Kolkata",
+        "country": "India",
+        "risk_level": "LOW",
+        "population_affected": 2800000,
+        "economic_impact_B": 160.0
+      },
+      {
+        "name": "Mumbai",
+        "country": "India",
+        "risk_level": "LOW",
+        "population_affected": 2200000,
+        "economic_impact_B": 240.0
+      },
+      {
+        "name": "Dhaka",
+        "country": "Bangladesh",
+        "risk_level": "LOW",
+        "population_affected": 2200000,
+        "economic_impact_B": 120.0
+      },
+      {
+        "name": "Lagos",
+        "country": "Nigeria",
+        "risk_level": "LOW",
+        "population_affected": 1200000,
+        "economic_impact_B": 80.0
+      },
+      {
+        "name": "Bangkok",
+        "country": "Thailand",
+        "risk_level": "LOW",
+        "population_affected": 1080000,
+        "economic_impact_B": 180.0
+      },
+      {
+        "name": "Shanghai",
+        "country": "China",
+        "risk_level": "LOW",
+        "population_affected": 1000000,
+        "economic_impact_B": 360.0
+      },
+      {
+        "name": "Tokyo",
+        "country": "Japan",
+        "risk_level": "LOW",
+        "population_affected": 640000,
+        "economic_impact_B": 500.0
+      },
+      {
+        "name": "Miami",
+        "country": "USA",
+        "risk_level": "LOW",
+        "population_affected": 500000,
+        "economic_impact_B": 700.0
+      },
+      {
+        "name": "New York",
+        "country": "USA",
+        "risk_level": "LOW",
+        "population_affected": 360000,
+        "economic_impact_B": 440.0
+      },
+      {
+        "name": "Amsterdam",
+        "country": "Netherlands",
+        "risk_level": "LOW",
+        "population_affected": 100000,
+        "economic_impact_B": 120.0
+      }
+    ]
+  }
+}
