@@ -1,0 +1,32 @@
+
+# Data files (too large for GitHub)
+nsidc_data/
+*.png
+*.jpg
+*.gif
+*.mp4
+
+# Model checkpoints
+checkpoints/
+*.pt
+*.pth
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+.venv/
+
+# Results
+results/
+outputs/
+*.npz
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
